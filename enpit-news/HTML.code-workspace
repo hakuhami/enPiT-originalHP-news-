@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../HTML"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../chatgpt"
+		},
+		{
+			"path": "../../../system"
+		},
+		{
+			"path": "../../../../lecture-ore"
+		},
+		{
+			"path": "../../practice"
+		}
+	],
+	"settings": {}
+}
